@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HIKEapp</string>
+    <string name="PAT1_NAME">Eurostralie</string>
+    <string name="PAT2_NAME">Amerafrique</string>
+    <string name="PAT3_NAME">Indorussie</string>
+    <string name="PAT4_NAME">Eurantarctique</string>
+</resources>
